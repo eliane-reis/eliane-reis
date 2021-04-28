@@ -1,7 +1,7 @@
 ### Hi ! I'm Eliane Reis 👋
 
-I'm a data analytics student 😄
-I'm from São Paulo, SP 🌎
+* I'm a data analytics student 😄
+* I'm from São Paulo, SP 🌎
 
 ## My Background 🎓
   * Data Analytics Bootcamp - Ironhack
