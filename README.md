@@ -9,7 +9,7 @@
     
 ## I'm currently studying... 📚
   * SQL
-
+  * Python
 ## My Passions ❤️
   * Learning new things
   * Astronomy
